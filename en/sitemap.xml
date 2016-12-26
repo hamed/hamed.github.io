@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://hamed.github.io/post/hello-hugo/</loc>
+    <lastmod>2016-12-25T23:34:14+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hamed.github.io/post/</loc>
+    <lastmod>2016-12-25T23:34:14+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hamed.github.io/</loc>
+    <lastmod>2016-12-25T23:34:14+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

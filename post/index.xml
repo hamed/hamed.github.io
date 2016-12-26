@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on playing with the black box</title>
+    <link>https://hamed.github.io/post/index.xml</link>
+    <description>Recent content in Posts on playing with the black box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 25 Dec 2016 23:34:14 +0330</lastBuildDate>
+    <atom:link href="https://hamed.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello Hugo!</title>
+      <link>https://hamed.github.io/post/hello-hugo/</link>
+      <pubDate>Sun, 25 Dec 2016 23:34:14 +0330</pubDate>
+      
+      <guid>https://hamed.github.io/post/hello-hugo/</guid>
+      <description>&lt;p&gt;In an on-line dynamic world, I need an off-line static place of my own to be alone, shut down all the sensory inputs, think, and write.
+This might be the place. I am writing this with good old &lt;a href=&#34;http://www.vim.org&#34;&gt;vim&lt;/a&gt;. &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; generates the htmls and &lt;a href=&#34;https:/github.com&#34;&gt;github&lt;/a&gt; serves the pages, so I always have backups!
+Let see if this old fashioned and distraction free method of writing get me back in the mood of writing.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
