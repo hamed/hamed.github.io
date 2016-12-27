@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>playing with the black box</title>
-    <link>https://hamed.github.io/index.xml</link>
-    <description>Recent content on playing with the black box</description>
+    <title>Data Science on playing with the black box</title>
+    <link>https://hamed.github.io/tags/data-science/index.xml</link>
+    <description>Recent content in Data Science on playing with the black box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Dec 2016 11:20:18 +0330</lastBuildDate>
-    <atom:link href="https://hamed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hamed.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Potty training and survival analysis</title>
@@ -56,32 +55,6 @@ half of the time he can keep his pajama dry as long as two hours.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Then, you are almost safe during next hour, at the end of first one hour, you give it a shot, then you will try half an hour later and a quarter later and then you don’t leave the until he pisses.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Have a good potty training! But be aware that the parameters of your LO might be different from ours!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello Hugo!</title>
-      <link>https://hamed.github.io/post/hello-hugo/</link>
-      <pubDate>Sun, 25 Dec 2016 23:34:14 +0330</pubDate>
-      
-      <guid>https://hamed.github.io/post/hello-hugo/</guid>
-      <description>&lt;p&gt;In an on-line dynamic world,
-I need an off-line static place of my own to work distraction free,
-shut down all the sensory inputs, think, and write about life, science, parenting and technology.
-This might be the place.
-I am writing this with good old &lt;a href=&#34;http://www.vim.org&#34;&gt;vim&lt;/a&gt;.
-&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; generates the htmls and &lt;a href=&#34;https:/github.com&#34;&gt;github&lt;/a&gt; serves the pages, so I always have backups!
-Let see if this old fashioned and distraction free method of writing get me back in the mood of writing.
-&lt;/p&gt;
-
-&lt;p&gt;My old place was &lt;a href=&#34;https://pnoq.blogspot.com&#34;&gt;blogspot&lt;/a&gt;,
-at that time, there were blogs and a google reader to read them all.
-Then came facebook, twitter, linkedin and bunch of other things and eventually google reader were downgraded to google plus (too me it was a downgrade.).
-They destroyed my creativity and desire to write.&lt;/p&gt;
-
-&lt;p&gt;I am not going to abandon my old blog, twitter, facebook and the rest.
-Small things like &amp;ldquo;I went to bathroom&amp;rdquo; will go to twitter,
-family and friends related materials will go to facebook but essays and interesting stuffs will be here.
-And, there is always &lt;a href=&#34;https://ifttt.com&#34;&gt;IFTTT&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
