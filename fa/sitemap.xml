@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hamed.github.io/fa/post/OpenListTehran-1396/</loc>
+    <lastmod>2017-05-24T11:28:11+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hamed.github.io/fa/post/</loc>
+    <lastmod>2017-05-24T11:28:11+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hamed.github.io/fa/</loc>
+    <lastmod>2017-05-24T11:28:11+04:30</lastmod>
     <priority>0</priority>
   </url>
   

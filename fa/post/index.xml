@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>بازی با جعبه سیاه</title>
-    <link>https://hamed.github.io/fa/index.xml</link>
-    <description>Recent content on بازی با جعبه سیاه</description>
+    <title>Posts on بازی با جعبه سیاه</title>
+    <link>https://hamed.github.io/fa/post/index.xml</link>
+    <description>Recent content in Posts on بازی با جعبه سیاه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>کلیه حقوق محفوظ است.</copyright>
     <lastBuildDate>Wed, 24 May 2017 11:28:11 +0430</lastBuildDate>
-    <atom:link href="https://hamed.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hamed.github.io/fa/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>باز شماری آرای شورای تهران</title>

@@ -7,42 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 15:11:49 +0430</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 11:20:18 +0330</lastBuildDate>
     <atom:link href="https://hamed.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Speaking In Natural Language</title>
-      <link>https://hamed.github.io/post/SpeakingInNaturalLanguage/</link>
-      <pubDate>Sat, 29 Apr 2017 15:11:49 +0430</pubDate>
-      
-      <guid>https://hamed.github.io/post/SpeakingInNaturalLanguage/</guid>
-      <description>
-
-&lt;h1 id=&#34;me-and-nlp&#34;&gt;Me and NLP&lt;/h1&gt;
-
-&lt;p&gt;For a long time I wanted to learn Natural Language Processing, but I didn&amp;rsquo;t have the time.
-Now that there is a competition on Kaggle &lt;a href=&#34;https://www.kaggle.com/c/quora-question-pairs&#34;&gt;Quora Question Pairs&lt;/a&gt;,
-I want to seize the opportunity and learn it hands on.
-While learning and practicing, I document everything here for others and for my future me!&lt;/p&gt;
-
-&lt;h1 id=&#34;duplicate-or-no&#34;&gt;Duplicate or no?&lt;/h1&gt;
-
-&lt;p&gt;The goal is to predict if a pair of questions are duplicate or not.
-The training set provides 404290 labeled question pairs (1, they are duplicate, 0, they are not duplicate).
-We have to predict the probability of being duplicate for any new pair of questions.&lt;/p&gt;
-
-&lt;h1 id=&#34;the-most-naive-solution&#34;&gt;The most naive solution&lt;/h1&gt;
-
-&lt;p&gt;It is easy to get lost in the complexity of a model,
-so as a benchmark and an starting point,&lt;br /&gt;
-I use the simplest model of all
-and I guess the probability of duplicates only from the frequency of duplicates in the training set.
-The code is &lt;a href=&#34;https://www.kaggle.com/pinocchio/quora-question-pairs/naive/run/1116931&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Its log loss is 0.55411, and it ranks 1727 out of 2168, it exceeds my expectations!
-The best solution as of this writing is 0.12684 so I have a long way to go.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Potty training and survival analysis</title>
