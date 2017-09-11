@@ -2,20 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on بازی با جعبه سیاه</title>
-    <link>https://hamed.github.io/fa/post/index.xml</link>
+    <link>https://hamed.github.io/fa/post/</link>
     <description>Recent content in Posts on بازی با جعبه سیاه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>کلیه حقوق محفوظ است.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 11:28:11 +0430</lastBuildDate>
-    <atom:link href="https://hamed.github.io/fa/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2017 10:00:00 +0430</lastBuildDate>
+    
+	<atom:link href="https://hamed.github.io/fa/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>بازی اعتماد و زندگی روزانه</title>
+      <link>https://hamed.github.io/fa/post/trustpersonal/</link>
+      <pubDate>Mon, 11 Sep 2017 10:00:00 +0430</pubDate>
+      
+      <guid>https://hamed.github.io/fa/post/trustpersonal/</guid>
+      <description>&lt;p&gt;من بارها و بارها سعی کرده بودم که معضل زندانی را به دوست و آشنا و فامیل یاد بدهم، اما هیچ وقت درست از آب در نیامد.
+مفهمومی پیچیده بود با مثالی ناملموس. وقتی که
+&lt;a href=&#34;http://ncase.me/trust/&#34;&gt;Evolution of Trust&lt;/a&gt;
+را دیدم، ذوق زده شدم و گفتم من باید این را ترجمه کنم، به این امید که دوست و آشنا و فامیل آنرا ببینند و محیط اطرافم کمی ارتقا پیدا کند.
+حاصل شد
+&lt;a href=&#34;https://hamed.github.io/trust/&#34;&gt;تکامل اعتماد&lt;/a&gt;
+که از دوست و آشنا و فامیل فراتر رفت و تا این لحظه نزدیک به ۸۰ هزار نفر آنرا دیده‌اند!
+چند نفری هم درباره‌اش نوشتند،
+&lt;a href=&#34;http://bisto7.ir/%DA%86%D8%B1%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%DB%8C%D9%85%D9%88%D9%86%D9%90-%D9%85%D9%82%D9%84%D8%AF%D9%90-%D9%85%D9%87%D8%B1%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%DB%8C%D9%85%D8%9F/&#34;&gt;از تجربیات شخصی&lt;/a&gt;
+،
+&lt;a href=&#34;http://manqus.blog.ir/1396/05/25/%D9%88-%D9%84%DA%A9%D9%85-%D9%81%DB%8C-%D8%A7%D9%84%D9%82%D8%B5%D8%A7%D8%B5-%D8%AD%DB%8C%D8%A7%D8%AA&#34;&gt;درباره قصاص&lt;/a&gt;
+و همینطور هم در باره
+&lt;a href=&#34;http://ahmadness.ir/the-evolution-of-cooperation/&#34;&gt;کتاب تکامل همکاری&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;من هم می‌خواهم از درس‌هایی که این بازی برایم داشته بگویم.
+قبل از اینکه ادامه دهی بهتر است &lt;a href=&#34;https://hamed.github.io/trust/&#34;&gt;#بازی_اعتماد&lt;/a&gt; را بازی کرده باشی.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>باز شماری آرای شورای تهران</title>
-      <link>https://hamed.github.io/fa/post/OpenListTehran-1396/</link>
+      <link>https://hamed.github.io/fa/post/openlisttehran-1396/</link>
       <pubDate>Wed, 24 May 2017 11:28:11 +0430</pubDate>
       
-      <guid>https://hamed.github.io/fa/post/OpenListTehran-1396/</guid>
+      <guid>https://hamed.github.io/fa/post/openlisttehran-1396/</guid>
       <description>&lt;p&gt;در انتخابات شواری اسلامی شهر تهران،
 اصلاح طلبان برنده همه صندلی‌ها شدند،
 در حالیکه از نتیجه انتخابات ریاست جمهوری می‌دانیم که حدود
@@ -29,79 +58,7 @@
 مشکل سیستم رأی گیری و شمارش آراء است،
 آنرا باید اصلاح کرد.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;در سیستم فعلی شمارش آرا،
-اکثریت برنده بی چون چرای تمام صندلی‌های مجلس یا شورا است،
-در حالیکه مجلس یا شورا باید نماینده تمام جامعه باشد.
-اگر یک سوم تهرانی‌ها اصولگرا هستند،
-باید یک سوم صندلی‌های شورا به آنها برسد.
-اگر ده درصد تهرانی‌ها تفکری غیر از این دو مورد دارند،
-باید دست کم صاحب دو صندلی شورا باشند.&lt;/p&gt;
-
-&lt;p&gt;اشکال دیگر سیستم کنونی این است که به سیستم دو حزبی می‌انجامد،
-تفکر‌های دیگر یا باید با دو حزب اصلی اعتلاف کنند یا حذف شوند.
-در این انتخابات هیچکس از فهرست
-&lt;a href=&#34;http://shahredigar.ir/&#34;&gt;شهر دیگر&lt;/a&gt;
-به شورا راه نیافت.&lt;/p&gt;
-
-&lt;p&gt;شیوه‌های بهتری برای انتخابات وجود دارند.
-نزدیک‌ترین آنها به روش موجود در ایران،
-انتخابات نسبتی با لیست باز است.
-در این روش هر حزب یک فهرست معرفی می‌کند،
-هر کاندیدا فقط باید در یک فهرست باشد.
-مردم هم می‌تواند دربست به فهرست حزب مورد علاقه رأی بدهند یا فهرست خودشان را که ترکیبی از کاندیداهای احزاب مختلف است را بسازند.
-تفاوت اصلی در نحوه شمارش آراء است.
-آراء هر کاندیدا شمرده می‌شود.
-آراء هر حزب برابر با جمع آراء کاندیداهای فهرستش است.
-هر حزب متناسب با آرای بدست آورده،
-برنده صندلی‌های مجلس یا شوراء می‌شود و کاندیدهای هر حزب به ترتیب آرایی که بدست آورده‌اند آن صندلی‌ها را پر می‌کنند.&lt;/p&gt;
-
-&lt;p&gt;من این کار را با انتخابات شورای اسلامی شهر تهران در سال ۱۳۹۶ انجام دادم.
-برای اینکار ۶۳ نفری را که بیشترین آراء را بدست آورده بودند جدا کردم،
-از این ۶۳ نفر، ۲۱ نفر اصولگرا و ۲۱ نفر اصلاح طلب بودند.
-۲۱ نفر باقی مانده را هم عضو فهرست فرضی &lt;strong&gt;دیگران&lt;/strong&gt; در نظر گرفتم.&lt;/p&gt;
-
-&lt;p&gt;به این روش، ۱۵ کرسی به اصلاح طلبان می‌رسد، ۵ کرسی به اصولگرایان و ۱ کرسی هم به دیگران.&lt;/p&gt;
-
-&lt;p&gt;لیست برگزیدگان نهایی به این صورت خواهد بود:&lt;/p&gt;
-
-
-&lt;figure class=&#34;center&#34;&gt;
-    &lt;a href=&#34;https://hamed.github.io/infographics/TehranOpenList-1386.png&#34;&gt;
-        &lt;img src=&#34;https://hamed.github.io/infographics/TehranOpenList-1386-small.png&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;ol&gt;
-&lt;li&gt;محسن هاشمي بهرماني&lt;/li&gt;
-&lt;li&gt;مرتضي الويري&lt;/li&gt;
-&lt;li&gt;احمد مسجدجامعي&lt;/li&gt;
-&lt;li&gt;شهربانو اماني انگنه&lt;/li&gt;
-&lt;li&gt;محمدجواد حق شناس&lt;/li&gt;
-&lt;li&gt;بهاره آروين&lt;/li&gt;
-&lt;li&gt;سيدابراهيم اميني&lt;/li&gt;
-&lt;li&gt;افشين حبيب زاده كلي&lt;/li&gt;
-&lt;li&gt;سيدآرش حسيني ميلاني&lt;/li&gt;
-&lt;li&gt;حسن خليل آبادي&lt;/li&gt;
-&lt;li&gt;علي اعطا&lt;/li&gt;
-&lt;li&gt;زهرا صدراعظم نوري&lt;/li&gt;
-&lt;li&gt;محمد سالاري&lt;/li&gt;
-&lt;li&gt;سيدحسن رسولي&lt;/li&gt;
-&lt;li&gt;ناهيد خداكرمي&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;مهدي چمران&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;عليرضا دبير&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;حبيب كاشاني&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;مرتضي طلائي&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;جلال ملكي&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ياشار سلطاني نقده&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;این روش برای انتخابات مجلس هم مناسب است. می‌توانید تکرار این محاسبه برای مجلس را به همراه شرح و بست بیشتر در
-&lt;a href=&#34;http://goo.gl/Kd9BuJ&#34;&gt;اینجا&lt;/a&gt;
-بخوانید.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

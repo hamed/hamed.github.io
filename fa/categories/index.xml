@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on بازی با جعبه سیاه</title>
+    <link>https://hamed.github.io/fa/categories/</link>
+    <description>Recent content in Categories on بازی با جعبه سیاه</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>کلیه حقوق محفوظ است.</copyright>
+    
+	<atom:link href="https://hamed.github.io/fa/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>زندگی</title>
+      <link>https://hamed.github.io/fa/categories/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C/</link>
+      <pubDate>Mon, 11 Sep 2017 10:00:00 +0430</pubDate>
+      
+      <guid>https://hamed.github.io/fa/categories/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>سیاست</title>
+      <link>https://hamed.github.io/fa/categories/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA/</link>
+      <pubDate>Wed, 24 May 2017 11:28:11 +0430</pubDate>
+      
+      <guid>https://hamed.github.io/fa/categories/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>نظریه بازی</title>
+      <link>https://hamed.github.io/fa/categories/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C/</link>
+      <pubDate>Mon, 11 Sep 2017 10:00:00 +0430</pubDate>
+      
+      <guid>https://hamed.github.io/fa/categories/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
