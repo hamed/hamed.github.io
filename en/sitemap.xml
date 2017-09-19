@@ -1,89 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hamed.github.io/post/potty-training-and-survival-analysis/</loc>
+    <loc>https://hamed.github.io/en/post/potty-training-and-survival-analysis/</loc>
     <lastmod>2016-12-27T11:20:18+03:30</lastmod>
   </url>
   
   <url>
-    <loc>https://hamed.github.io/post/hello-hugo/</loc>
+    <loc>https://hamed.github.io/en/post/hello-hugo/</loc>
     <lastmod>2016-12-25T23:34:14+03:30</lastmod>
   </url>
   
   <url>
-    <loc>https://hamed.github.io/categories/</loc>
+    <loc>https://hamed.github.io/en/categories/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://hamed.github.io/categories/data-science/</loc>
+    <loc>https://hamed.github.io/en/categories/data-science/</loc>
     <lastmod>2016-12-27T11:20:18+03:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hamed.github.io/categories/parenting/</loc>
+    <loc>https://hamed.github.io/en/categories/parenting/</loc>
     <lastmod>2016-12-27T11:20:18+03:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hamed.github.io/post/</loc>
+    <loc>https://hamed.github.io/en/post/</loc>
     <lastmod>2016-12-27T11:20:18+03:30</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/post/"
-                />
   </url>
   
   <url>
-    <loc>https://hamed.github.io/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hamed.github.io/</loc>
+    <loc>https://hamed.github.io/en/</loc>
     <lastmod>2016-12-27T11:20:18+03:30</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/"
-                />
   </url>
   
 </urlset>

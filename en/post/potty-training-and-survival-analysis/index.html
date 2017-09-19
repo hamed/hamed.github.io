@@ -4,10 +4,10 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
+  <meta name="description" content="Hardcore math and parenting">
   <meta name="generator" content="Hugo 0.18" />
 
-  <title>playing with the black box</title>
+  <title>Potty training and survival analysis &middot; playing with the black box</title>
 
   
   
@@ -36,8 +36,6 @@
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
   
-  
-  <link rel="alternate" type="application/rss+xml" title="playing with the black box" href="https://hamed.github.io/index.xml" />
   
 
   
@@ -101,10 +99,6 @@
   <div class="pure-menu social">
   <ul class="pure-menu-list">
 
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="https://hamed.github.io/index.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
-    </li>
     
 
     
@@ -219,18 +213,14 @@
   <div id="main">
 
 
-<div class="header" lang=en >
-  <h1>playing with the black box</h1>
-  <h2>at my own risk!</h2>
+<div  lang=en >
+<div class="header">
+  <h1>Potty training and survival analysis</h1>
+  <h2>Hardcore math and parenting</h2>
 </div>
+<div class="content" align="justify">
 
-<div class="content"  lang=en >
-  
-    <article>
-  <header>
-    <h2><a href="https://hamed.github.io/en/post/potty-training-and-survival-analysis/">Potty training and survival analysis</a></h2>
-
-    <div class="post-meta" lang=en >
+  <div class="post-meta" lang=en >
 <div>
     <i class="fa fa-calendar fa-fw"></i>
     <time>27 Dec 2016, 11:20</time>
@@ -260,9 +250,6 @@
 </div>
 
 
-  </header>
-
-  <p>
   <p>It is time to potty train the Little One (LO).
 The objective is to use Reinforcement Learning (RL) so the LO pisses in the toilet instead of his diaper.
 The idea of RL is to keep LO on his potty until he accidentally pisses into that.
@@ -272,70 +259,90 @@ We need to repeat the process over and over again to reinforce the good behavior
 It is simple but it is not easy.
 Survival analysis might come handy.
 </p>
-  </p>
+
+<p>During the training, LO pisses on different parts and objects of the house,
+from mom’s favorite carpet to dad’s smart phone (False Negatives).
+If we want to avoid that,
+we have to wait endless hours in the bathroom until the LO gets fed up leaves with no result (False Positives).</p>
+
+<p>So, the objective is to minimize false positives and false negatives,
+spend less time in the toilet, and spend less time cleaning the house.</p>
+
+<p>Let P(t) be the probability of LO pissing during t and t+dt.
+This is not a uniform Probability Density Function (PDF).
+It depends on many parameters, like room temperature, water consumption and  sweating.
+It is even more complicated that that, P(t) depends on the history,
+it depends on what happened at before, the last time LO has pissed.
+Maybe we can use some survival analysis here.</p>
+
+<p>In survival analysis, we are interested in calculation of survival function S(t),
+the probability of LO keeping all the urine in his tiny bladder as long as t,
+given that he has already pissed at time t=0.
+So for example, in our case study we are confident that S(15 min) = 1 and S(4 hour)=0,
+for awake subject but for asleep subject, S(t) stays close one for as long as 12 hours.</p>
+
+<p>For awake subject, the half life is about 2 hours,
+half of the time he can keep his pajama dry as long as two hours.</p>
+
+<p>After a series of observations, we come to this conclusion:</p>
+
+<p><strong>First thing in the morning, put LO on his potty. In a couple of minutes, LO will fill both the potty and your cup of joy!</strong></p>
+
+<p><strong>Then, you are almost safe during next hour, at the end of first one hour, you give it a shot, then you will try half an hour later and a quarter later and then you leave LO on the potty until he pisses.</strong></p>
+
+<p>Have a good potty training! But be aware that the parameters of your LO might be different from ours!</p>
+
+<p><em>Originaly published on my <a href="https://www.linkedin.com/pulse/potty-training-data-scientists-way-hamed-seyed-allaei">Linkedin</a> page.</em></p>
 
   
-  <footer>
-    <a href="https://hamed.github.io/en/post/potty-training-and-survival-analysis/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
-
-  
-    <article>
-  <header>
-    <h2><a href="https://hamed.github.io/en/post/hello-hugo/">Hello Hugo!</a></h2>
-
-    <div class="post-meta" lang=en >
-<div>
-    <i class="fa fa-calendar fa-fw"></i>
-    <time>25 Dec 2016, 23:34</time>
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="https://hamed.github.io/en/post/hello-hugo/"><i class="fa fa-chevron-left"></i></a>
+    
   </div>
-
-  
-
-  
-  
-  
-  
-
-  
-  
-  
-  
-
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="https://hamed.github.io/en/post/hello-hugo/">Hello Hugo!</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+  </div>
 </div>
 
 
-  </header>
-
-  <p>
-  <p><img src="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" alt="" /></p>
-
-<p>In an on-line dynamic world,
-I need an off-line static place of my own to work distraction free,
-shut down all the sensory inputs, think, and write about life, science, parenting and technology.
-This might be the place.
-I am writing this with good old <a href="http://www.vim.org">vim</a>.
-<a href="https://gohugo.io">Hugo</a> generates the htmls and <a href="https:/github.com">github</a> serves the pages, so I always have backups!
-Let see if this old fashioned and distraction free method of writing get me back in the mood of writing.
-</p>
-  </p>
 
   
-  <footer>
-    <a href="https://hamed.github.io/en/post/hello-hugo/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
 
-  
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
 
-  
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'hamed-github-io';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
 </div>
-
+</div>
 </div>
 </div>
 <script src="https://hamed.github.io/js/ui.js"></script>

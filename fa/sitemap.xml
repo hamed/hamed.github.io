@@ -1,77 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hamed.github.io/fa/post/trustpersonal/</loc>
+    <loc>https://hamed.github.io/fa/post/TrustPersonal/</loc>
     <lastmod>2017-09-11T10:00:00+04:30</lastmod>
   </url>
   
   <url>
-    <loc>https://hamed.github.io/fa/post/openlisttehran-1396/</loc>
+    <loc>https://hamed.github.io/fa/post/OpenListTehran-1396/</loc>
     <lastmod>2017-05-24T11:28:11+04:30</lastmod>
   </url>
   
   <url>
     <loc>https://hamed.github.io/fa/categories/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/categories/"
-                />
   </url>
   
   <url>
     <loc>https://hamed.github.io/fa/post/</loc>
     <lastmod>2017-09-11T10:00:00+04:30</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hamed.github.io/fa/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/tags/"
-                />
   </url>
   
   <url>
     <loc>https://hamed.github.io/fa/</loc>
     <lastmod>2017-09-11T10:00:00+04:30</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hamed.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hamed.github.io/fa/"
-                />
   </url>
   
   <url>
